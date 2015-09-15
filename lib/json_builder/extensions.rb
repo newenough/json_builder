@@ -1,4 +1,4 @@
-require 'active_support/all'
+require 'active_support/core_ext'
 
 class FalseClass
   def to_builder
